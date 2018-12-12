@@ -13,8 +13,9 @@ I feel the static comp portion of the site met at least 80% of the requirements.
 
 As I stated above, I have a lot of improvement to make on media queries and applying them, as well organizing my code to make things easier. 
 
-## Image of the comp provided:
+#### Image of the comp provided:
 
+<img width="394" alt="screen shot 2018-12-11 at 9 21 34 pm" src="https://user-images.githubusercontent.com/37053236/49848970-d710f500-fd94-11e8-948f-8587196da75d.png">
 
-## Image of my static comp: 
+#### Image of my static comp: 
 
