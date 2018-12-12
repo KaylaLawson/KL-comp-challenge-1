@@ -19,3 +19,5 @@ As I stated above, I have a lot of improvement to make on media queries and appl
 
 #### Image of my static comp: 
 
+<img width="716" alt="screen shot 2018-12-11 at 10 05 05 pm" src="https://user-images.githubusercontent.com/37053236/49849022-0b84b100-fd95-11e8-9aa0-474c85a32404.png">
+
